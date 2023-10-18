@@ -10,5 +10,5 @@ git clone https://github.com/absozero/nvim-config ~/.config/nvim --depth 1 && nv
 
 On Windows Systems
 ```
-git clone https://github.com/NvChad/NvChad $HOME\AppData\Local\nvim --depth 1 && nvim
+git clone https://github.com/absozero/nvim-config $HOME\AppData\Local\nvim --depth 1 && nvim
 ```
